@@ -1,0 +1,11 @@
+tuplex = ('string',4,4.56)
+print(tuplex)
+tuplex = (1,2,3,4,5)
+print(tuplex)
+for i in tuplex:
+    tuplex = tuplex + (9,)
+tup = (50,40,30,20,10,40,50,50)
+print(tup.count)
+tuple1 = (2,4,6,5,1,8,6,8,9,70)
+print(tuple1[2:4])
+print(tuple1[3:])
